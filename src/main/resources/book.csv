@@ -1,0 +1,5 @@
+ID,name,phone,age,department,active
+1,kazim,123456,17,CS,TRUE
+2,ali,123456,17,IT,FALSE
+3,hunain,123456,17,NW,1
+4,mubashir,123456,17,FI,0
